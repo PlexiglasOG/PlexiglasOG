@@ -20,7 +20,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,github,kotlin,idea,pycharm,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,kotlin,idea,pycharm,git" />
     <img src="https://skillicons.dev/icons?i=java,python,mysql,flutter,md,dart,spring,sqlite" /><br>
     And of course the greatest of them all:<br/>
     <a title="Matthew Butterick, LGPL &lt;http://www.gnu.org/licenses/lgpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Racket-logo.svg"><img width="100" alt="Racket-logo"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/250px-Racket-logo.svg.png"></a>
